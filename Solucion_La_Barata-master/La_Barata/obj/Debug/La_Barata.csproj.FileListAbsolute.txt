@@ -1,0 +1,39 @@
+c:\users\elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\bin\Debug\La_Barata.exe.config
+c:\users\elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\bin\Debug\La_Barata.exe
+c:\users\elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\bin\Debug\La_Barata.pdb
+c:\users\elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\obj\Debug\La_Barata.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\obj\Debug\La_Barata.Form1.resources
+c:\users\elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\obj\Debug\La_Barata.Properties.Resources.resources
+c:\users\elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\obj\Debug\La_Barata.csproj.GenerateResource.Cache
+c:\users\elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\obj\Debug\La_Barata.exe
+c:\users\elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\obj\Debug\La_Barata.pdb
+C:\Users\Elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\obj\Debug\La_Barata.inicio.resources
+C:\Users\Elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\bin\Debug\MySql.Data.dll
+C:\Users\Elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\bin\Debug\Google.Protobuf.dll
+C:\Users\Elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\bin\Debug\MySql.Data.xml
+C:\Users\Elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\obj\Debug\La_Barata.ControlUsuarios.resources
+C:\Users\Elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\obj\Debug\La_Barata.Inventario.resources
+C:\Users\Elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\obj\Debug\La_Barata.Ofertas.resources
+C:\Users\Elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\obj\Debug\La_Barata.Recortescs.resources
+C:\Users\Elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\obj\Debug\La_Barata.Registro.resources
+C:\Users\Elena\documents\visual studio 2017\Projects\La_Barata\La_Barata\obj\Debug\La_Barata.Ventas.resources
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\bin\Debug\La_Barata.exe.config
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.exe
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.pdb
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\bin\Debug\La_Barata.exe
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\bin\Debug\La_Barata.pdb
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\bin\Debug\Google.Protobuf.dll
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\bin\Debug\MySql.Data.xml
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.ControlUsuarios.resources
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.Form1.resources
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.inicio.resources
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.Inventario.resources
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.Ofertas.resources
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.Properties.Resources.resources
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.Recortescs.resources
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.Registro.resources
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.Ventas.resources
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.csproj.GenerateResource.Cache
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.csprojAssemblyReference.cache
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.csproj.CoreCompileInputs.cache
+C:\Users\Feer Castro\Desktop\Solucion_La_Barata-master\Solucion_La_Barata-master\La_Barata\obj\Debug\La_Barata.csproj.CopyComplete
